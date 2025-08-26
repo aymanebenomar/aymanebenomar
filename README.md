@@ -57,14 +57,13 @@
 
 <p align="center">
   <a href="https://github.com/aymanebenomar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aymanebenomar&repo=project1&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aymanebenomar&repo=React-app-project&theme=tokyonight" />
   </a>
   <a href="https://github.com/aymanebenomar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aymanebenomar&repo=project2&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aymanebenomar&repo=Spotify-Gesture-Control&theme=tokyonight" />
   </a>
 </p>
-
-*(Replace `project1` and `project2` with your actual repos!)*  
+  
 
 ---
 
