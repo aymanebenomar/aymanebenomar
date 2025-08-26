@@ -5,7 +5,7 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Web+Developer;Lifelong+Learner" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=700&lines=Software+Engineering+Student" alt="Typing Intro" />
 </p>
 
 ---
