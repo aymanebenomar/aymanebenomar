@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=AYMANE+BENOMAR;Software+Engineering+Student;Full‑Stack+Developer;Problem+Solver+%7C+Builder+%7C+Learner" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=AYMANE+BENOMAR;SOFWARE+ENGINEERING+STUDENT;FULL+STACK+DEVELOPER" alt="Typing intro" />
 </p>
 
 <p align="center">
