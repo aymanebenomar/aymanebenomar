@@ -1,33 +1,36 @@
-<!-- Animated Name Banner -->
+<!-- Profile Header -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=AYMANE+BENOMAR" alt="AYMANE BENOMAR" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=AYMANE+BENOMAR;Software+Engineering+Student;Full‑Stack+Developer;Problem+Solver+%7C+Builder+%7C+Learner" alt="Typing intro" />
 </p>
 
-<!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=700&lines=Software+Engineering+Student" alt="Typing Intro" />
-</p>
-
----
-
-# 🌟 About Me  
-
-🎓 **Software Engineering Student**  
-💻 Experienced in **Full-Stack Web Development**  
-🚀 Passionate about **problem-solving, scalable apps, and algorithms**  
-🌱 Continuously learning & improving my skills  
-
----
-
-# 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,php,js,html,css,react,nodejs,laravel,mysql,bash,git,github" />
+  <a href="mailto:aymanebenomar2005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/REPLACE_WITH_YOUR_HANDLE" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/aymanebenomar"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=aymanebenomar&style=for-the-badge&color=0ea5e9"/>
 </p>
 
 ---
 
-# 🏆 42 Badge  
+## 🌟 About Me
+
+* 🎓 **Software Engineering student**
+* 💻 Building **full-stack apps** with clean architecture & good DX
+* 🚀 Passionate about **scalable systems, problem-solving, and algorithms**
+* 🌱 Always learning — currently polishing **React Native + Expo Router**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,php,js,ts,react,reactnative,nodejs,express,laravel,html,css,tailwind,mysql,postgres,mongodb,bash,git,github,vscode&perline=10" />
+</p>
+
+---
+
+## 🏆 42 Badge
 
 <p align="center">
   <a href="https://badge.mediaplus.ma/greenbinary/aybenoma">
@@ -37,40 +40,7 @@
 
 ---
 
-# 📊 GitHub Stats  
+## 📫 Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aymanebenomar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanebenomar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymanebenomar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-# 🚀 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/aymanebenomar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aymanebenomar&repo=React-app-project&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/aymanebenomar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aymanebenomar&repo=Spotify-Gesture-Control&theme=tokyonight" />
-  </a>
-</p>
-  
-
----
-
-# 🌐 Connect With Me  
-
-<p align="center">
-  <a href="mailto:aymanebenomar2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/aymanebenomar"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+* 📧 **Email:** `aymanebenomar2005@gmail.com`
+* 💼 **LinkedIn:** `linkedin.com/in/REPLACE_WITH_YOUR_HANDLE` (update this link).
