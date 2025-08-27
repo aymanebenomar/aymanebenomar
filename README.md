@@ -18,7 +18,7 @@
 * 🎓 **Software Engineering student**
 * 💻 Building **full-stack apps** with clean architecture & good DX
 * 🚀 Passionate about **scalable systems, problem-solving, and algorithms**
-* 🌱 Always learning — currently polishing **React Native + Expo Router**
+* 🌱 Currently polishing **React Native + Expo Router**
 
 ---
 
