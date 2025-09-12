@@ -1,12 +1,12 @@
 <!-- Profile Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=AYMANE+BENOMAR;SOFWARE+ENGINEERING+STUDENT;FULL+STACK+DEVELOPER" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=AYMANE+BENOMAR;DATA+ENGINEERING+STUDENT;FULL+STACK+DEVELOPER" alt="Typing intro" />
 </p>
 
 <p align="center">
   <a href="mailto:aymanebenomar2005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/REPLACE_WITH_YOUR_HANDLE" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/benomar-aymane-85b91b380" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/aymanebenomar"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"></a>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=aymanebenomar&style=for-the-badge&color=0ea5e9"/>
 </p>
@@ -15,9 +15,9 @@
 
 ## 🌟 About Me
 
-* 🎓 **Software Engineering student**
+* 🎓 **Data Engineering student**
 * 💻 Building **full-stack apps** with clean architecture & good DX
-* 🚀 Passionate about **scalable systems, problem-solving, and algorithms**
+* 🚀 Passionate about **scalable systems**
 * 🌱 Currently polishing **React Native + Expo Router**
 
 ---
