@@ -51,9 +51,7 @@
 ## 🏆 42 Badge
 
 <p align="center">
-  <a href="https://badge.mediaplus.ma/greenbinary/aybenoma">
-    <img src="https://badge.mediaplus.ma/greenbinary/aybenoma" alt="42 Badge" />
-  </a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/aybenoma" alt="aybenoma's 42 stats" /></a>
 </p>
 
 ---
