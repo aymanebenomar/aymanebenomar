@@ -51,4 +51,4 @@
 ## 📫 Contact
 
 * 📧 **Email:** `aymanebenomar2005@gmail.com`
-* 💼 **LinkedIn:** `linkedin.com/in/benomar-aymane-85b91b380`
+* 💼 **LinkedIn:** `benomaraymane`
