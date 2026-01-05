@@ -16,7 +16,7 @@
 ## 🌟 About Me
 
 * 🎓 **Data Engineering student**
-* 💻 Building **full-stack apps** with clean architecture & good DX
+* 💻 Building **full-stack apps** with clean architecture & good UI
 * 🚀 Passionate about **scalable systems**
 * 🌱 Currently polishing **React Native + Expo Router**
 
