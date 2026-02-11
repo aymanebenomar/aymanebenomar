@@ -9,10 +9,8 @@
 ---
 
 I'm Aymane, a software engineering student based in Morocco.
-
 I build full-stack applications with a strong focus on backend architecture, clean system design, and modern front-end experiences.  
 My goal is to create software that is scalable, maintainable, and built with long-term vision.
-
 I enjoy transforming real-world business problems into structured and practical digital solutions.
 
 ---
