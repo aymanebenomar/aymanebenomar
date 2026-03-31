@@ -46,5 +46,5 @@ Clean, structured, and scalable codebases
 ---
 
 <p align="center">
-  <i>Build with clarity. Design with intention. Scale with confidence.</i>
+  <i>Build with clarity. Design with intention. Scale with confidence..</i>
 </p>
