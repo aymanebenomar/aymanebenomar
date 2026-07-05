@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-<a href="https://benomaraymane.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="mailto:aymanebenomar2005@gmail.com"><img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:aymane.collabs@gmail.com"><img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/benomar-aymane-85b91b380"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
