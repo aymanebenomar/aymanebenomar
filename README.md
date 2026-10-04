@@ -1,4 +1,4 @@
-## Aymane Benomar
+## aymanebenomar
 
 <p align="center">
   <a href="mailto:aymane.collabs@gmail.com"><img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" /></a>
