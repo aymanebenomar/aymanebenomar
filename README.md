@@ -16,8 +16,8 @@ My work centers on backend architecture and system design: building APIs and dat
 ### Currently
 
 - **Studying** software engineering at 1337 (UM6P), working through the 42 common core
-- **Building** [Carreera](https://carreera.com), an ATS-friendly CV checker and resume builder
-- **Running** [Webuildm](https://webuildm.com), a web agency delivering sites and applications for businesses
+- **Building** [Carreera](https://carreera.com) an ATS-friendly CV checker and resume builder
+- **Running** [Webuildm](https://webuildm.com) a web agency delivering sites and applications for businesses
 
 ---
 
